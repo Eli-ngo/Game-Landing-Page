@@ -30,7 +30,7 @@ import bgLargeAkali from './images/akali-bg-large.jpg'
 
 import closeIcon from './images/two-sword.png'
 
-import trailerimages from './images/trailer-images.png'
+import trailerimages from './images/trailer-img.png'
 
 export {
     logo,
